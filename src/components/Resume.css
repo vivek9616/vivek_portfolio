@@ -1,0 +1,172 @@
+/* General styling for the main container */
+main {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #d3d0d0; /* Slightly lighter background for better contrast */
+}
+
+/* General styling for all sections */
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Section headings */
+section h2 {
+  font-size: 1.8rem;
+  color: #444;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #61dafb;
+  padding-bottom: 5px;
+}
+
+/* Paragraphs inside sections */
+section p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+/* General styling for unordered lists */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 15px;
+}
+
+/* Styling for strong text inside list items */
+ul li strong {
+  font-size: 1.2rem;
+  color: #222;
+}
+
+/* Styling for additional details inside list items */
+ul li p {
+  margin: 5px 0 0 15px;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Specific styling for the About section */
+#about p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Specific styling for the Experience section */
+#experience ul {
+  font-size: 1rem;
+}
+
+#experience ul li {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  text-align: justify;
+}
+
+#experience ul li ul li{
+  font-size: 1rem;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+#experience ul li strong {
+  font-size: 1.4rem;
+  color: #222;
+  line-height: 1.8;
+}
+
+#experience ul li p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+  margin: 5px 0 0 15px;
+}
+
+/* Specific styling for the Education section */
+#education ul li {
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+}
+
+#education ul li strong {
+  font-size: 1.2rem;
+  color: #222;
+}
+
+#education ul li p {
+  margin: 5px 0 0 15px;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Specific styling for the Certifications section */
+#certifications ul li {
+  margin-bottom: 20px;
+}
+
+#certifications ul li strong {
+  font-size: 1.2rem;
+  color: #222;
+}
+
+#certifications ul li p {
+  margin: 5px 0;
+}
+
+.certificate-link {
+  color: #61dafb;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.certificate-link:hover {
+  color: #21a1f1;
+  text-decoration: underline;
+}
+
+/* Specific styling for the Resume Download section */
+.download-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: white;
+  background-color: #61dafb;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.download-button:hover {
+  background-color: #21a1f1;
+}
+
+#skills ul li {
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+}
+
+#skills ul li strong {
+  font-size: 1.2rem;
+  color: #222;
+}
+
+#skills ul li p {
+  margin: 5px 0 0 15px;
+  font-size: 1rem;
+  color: #555;
+}
+
+#projects ul li p {
+  font-size: 1rem;
+  text-align: justify;
+}
