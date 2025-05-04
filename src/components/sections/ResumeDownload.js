@@ -5,7 +5,7 @@ function ResumeDownload() {
     <section id="resume-download">
       <h2>Resume</h2>
       <a
-        href="/resume_3 years_MERN_stack_vivek.pdf"
+        href="https://vivek9616.github.io/vivek_portfolio/resume_3 years_MERN_stack_vivek.pdf"
         download="Vivek_Full_Stack_Resume.pdf"
         className="download-button"
       >

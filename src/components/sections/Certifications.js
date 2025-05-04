@@ -9,7 +9,7 @@ function Certifications() {
           <strong>JavaScript</strong> - Issued by Wipro
           <p>
             <a
-              href="/certificates/JavaScript_L2.pdf"
+              href="https://vivek9616.github.io/vivek_portfolio/certificates/JavaScript_L2.pdf"
               download="JavaScript Certification.pdf"
               className="certificate-link"
             >
@@ -21,7 +21,7 @@ function Certifications() {
           <strong>React JS</strong> - Issued by Wipro
           <p>
             <a
-              href="/certificates/ReactJS_L2.pdf"
+              href="https://vivek9616.github.io/vivek_portfolio/certificates/ReactJS_L2.pdf"
               download="React_Developer_Certification.pdf"
               className="certificate-link"
             >
@@ -33,7 +33,7 @@ function Certifications() {
           <strong>Angular 14</strong> - Issued by Wipro
           <p>
             <a
-              href="/certificates/Angular14.pdf"
+              href="https://vivek9616.github.io/vivek_portfolio/certificates/Angular14.pdf"
               download="Angular Certification.pdf"
               className="certificate-link"
             >
@@ -45,7 +45,7 @@ function Certifications() {
           <strong>MongoDB</strong> - Issued by Wipro
           <p>
             <a
-              href="/certificates/MongoDB_L2.pdf"
+              href="https://vivek9616.github.io/vivek_portfolio/certificates/MongoDB_L2.pdf"
               download="MongoDB Certification.pdf"
               className="certificate-link"
             >
@@ -57,7 +57,7 @@ function Certifications() {
           <strong>Python Scripting</strong> - Issued by Wipro
           <p>
             <a
-              href="/certificates/Python_Scripting.pdf"
+              href="https://vivek9616.github.io/vivek_portfolio/certificates/Python_Scripting.pdf"
               download="Python Scripting Certification.pdf"
               className="certificate-link"
             >
@@ -69,7 +69,7 @@ function Certifications() {
           <strong>Selenium</strong> - Issued by Wipro
           <p>
             <a
-              href="/certificates/Selenium.pdf"
+              href="https://vivek9616.github.io/vivek_portfolio/certificates/Selenium.pdf"
               download="Selenium Certification.pdf"
               className="certificate-link"
             >
